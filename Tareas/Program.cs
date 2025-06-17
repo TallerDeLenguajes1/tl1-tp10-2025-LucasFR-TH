@@ -1,4 +1,6 @@
 ﻿using EspacioTarea;
+using System;
+using System.Text.Json;
 
 // Utilizando la clase HttpClient, realiza una petición GET asíncrona al siguiente
 // endpoint: https://jsonplaceholder.typicode.com/todos/
@@ -22,16 +24,16 @@ List<Tarea> listTareas = JsonSerializer.Deserialize<List<Tarea>>(responseBody);
 foreach (var Tar in listTareas)
 {
     if (Tar.completed) {
-        Console.WriteLine("Tareas Completadas:")
-        Console.WriteLine("ID Usuario: " + Tar.userId + " ID Tarea: " + Prov.id + " Tarea: " + Prov.title);    
+        Console.WriteLine("Tareas Completadas:");
+        Console.WriteLine("ID Usuario: " + Tar.userId + " ID Tarea: " + Tar.id + " Tarea: " + Tar.title);    
     }
 }
 
 foreach (var Tar in listTareas)
 {
     if (!Tar.completed) {
-        Console.WriteLine("Tareas No Completadas:")
-        Console.WriteLine("ID Usuario: " + Tar.userId + " ID Tarea: " + Prov.id + " Tarea: " + Prov.title);    
+        Console.WriteLine("Tareas No Completadas:");
+        Console.WriteLine("ID Usuario: " + Tar.userId + " ID Tarea: " + Tar.id + " Tarea: " + Tar.title);    
     }
 }
 
@@ -39,5 +41,5 @@ foreach (var Tar in listTareas)
 // A la lista completa de tareas y serialízala nuevamente a formato JSON y guarda el
 // resultado en un archivo llamado tareas.json en el directorio de ejecución de la
 // aplicación.
-string jsonString = JsonSerializer.Serialize(Tar);
+// string jsonString = JsonSerializer.Serialize(Tar);
 

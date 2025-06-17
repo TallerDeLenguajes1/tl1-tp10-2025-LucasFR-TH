@@ -13,3 +13,4 @@ E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Tareas\obj\Debug\n
 E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Tareas\obj\Debug\net8.0\Tareas.pdb
 E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Tareas\obj\Debug\net8.0\Tareas.genruntimeconfig.cache
 E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Tareas\obj\Debug\net8.0\ref\Tareas.dll
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Tareas\obj\Debug\net8.0\Tareas.csproj.AssemblyReference.cache
