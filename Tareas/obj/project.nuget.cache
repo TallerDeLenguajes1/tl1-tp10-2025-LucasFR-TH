@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "MUqb+FCo1WN18y0ta32HyO0Kt6e1lDZt/Db48dUXX+RyeMbUBw2Fxd4DlYjb72V1Vp6U6aePO1YDnw1GNi74tA==",
+  "dgSpecHash": "z/5ZpVHCiYHnH0lSLCj+HGDlknbTVhs0tjFhF7dZWj+A/GGxhFe/9FMKW//prhSd5QRlrY0gfsvpQQvZ1o+O0w==",
   "success": true,
   "projectFilePath": "E:\\PROGRAMACION\\TALLER LENGUAJE\\tp10\\tl1-tp10-2025-LucasFR-TH\\Tareas\\Tareas.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Alumno\\.nuget\\packages\\system.io.pipelines\\9.0.6\\system.io.pipelines.9.0.6.nupkg.sha512",
+    "C:\\Users\\Alumno\\.nuget\\packages\\system.text.encodings.web\\9.0.6\\system.text.encodings.web.9.0.6.nupkg.sha512",
+    "C:\\Users\\Alumno\\.nuget\\packages\\system.text.json\\9.0.6\\system.text.json.9.0.6.nupkg.sha512"
+  ],
   "logs": []
 }
