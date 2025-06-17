@@ -1,4 +1,4 @@
-﻿using EspacioUsuario;
+﻿using EspacioUsuarios;
 using System;
 using System.Text.Json;
 
@@ -21,9 +21,13 @@ List<Usuario> listUsu = JsonSerializer.Deserialize<List<Usuario>>(responseBody);
 int contador = 0;
 foreach (var Usu in listUsu)
 {
-    while (contador < 5) {
-        Console.WriteLine("Nombre: " + Usu.name + " Correo electronico: " + Usu.email + " Domicilio: " + Usu.Address);
+    if (contador < 5) {
+        Console.WriteLine("Nombre: " + Usu.name + " Correo electronico: " + Usu.email + " Domicilio: " + Usu.address.street);
         contador ++;
-        string jsonString = JsonSerializer.Serialize(Usu); 
     }
 }
+
+string jsonString = JsonSerializer.Serialize(listUsu); 
+Console.WriteLine(jsonString);
+
+File.WriteAllText("reporte_archivos.json", jsonString);
