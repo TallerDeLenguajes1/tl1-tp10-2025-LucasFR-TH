@@ -1,0 +1,15 @@
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Tareas\bin\Debug\net8.0\Tareas.exe
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Tareas\bin\Debug\net8.0\Tareas.deps.json
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Tareas\bin\Debug\net8.0\Tareas.runtimeconfig.json
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Tareas\bin\Debug\net8.0\Tareas.dll
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Tareas\bin\Debug\net8.0\Tareas.pdb
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Tareas\obj\Debug\net8.0\Tareas.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Tareas\obj\Debug\net8.0\Tareas.AssemblyInfoInputs.cache
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Tareas\obj\Debug\net8.0\Tareas.AssemblyInfo.cs
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Tareas\obj\Debug\net8.0\Tareas.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Tareas\obj\Debug\net8.0\Tareas.sourcelink.json
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Tareas\obj\Debug\net8.0\Tareas.dll
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Tareas\obj\Debug\net8.0\refint\Tareas.dll
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Tareas\obj\Debug\net8.0\Tareas.pdb
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Tareas\obj\Debug\net8.0\Tareas.genruntimeconfig.cache
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Tareas\obj\Debug\net8.0\ref\Tareas.dll
