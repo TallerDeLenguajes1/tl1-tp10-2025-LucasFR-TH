@@ -1,0 +1,15 @@
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Usuarios\bin\Debug\net8.0\Usuarios.exe
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Usuarios\bin\Debug\net8.0\Usuarios.deps.json
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Usuarios\bin\Debug\net8.0\Usuarios.runtimeconfig.json
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Usuarios\bin\Debug\net8.0\Usuarios.dll
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Usuarios\bin\Debug\net8.0\Usuarios.pdb
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Usuarios\obj\Debug\net8.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfoInputs.cache
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfo.cs
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Usuarios\obj\Debug\net8.0\Usuarios.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Usuarios\obj\Debug\net8.0\Usuarios.sourcelink.json
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Usuarios\obj\Debug\net8.0\Usuarios.dll
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Usuarios\obj\Debug\net8.0\refint\Usuarios.dll
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Usuarios\obj\Debug\net8.0\Usuarios.pdb
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Usuarios\obj\Debug\net8.0\Usuarios.genruntimeconfig.cache
+E:\PROGRAMACION\TALLER LENGUAJE\tp10\tl1-tp10-2025-LucasFR-TH\Usuarios\obj\Debug\net8.0\ref\Usuarios.dll
