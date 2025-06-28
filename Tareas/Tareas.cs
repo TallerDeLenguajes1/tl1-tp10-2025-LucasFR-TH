@@ -6,7 +6,7 @@ namespace EspacioTarea;
 public class Tarea { // IMPLICITAMENTE HAY UN COSNTRUTOR VACIO
     public int userId { get; set;} // asi ta bien
     public int id { get; set; }
-    public string? title { get; set;}
+    public string title { get; set;}
     public bool completed { get; set; }
 }
 

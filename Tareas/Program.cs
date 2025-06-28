@@ -21,19 +21,21 @@ List<Tarea> listTareas = JsonSerializer.Deserialize<List<Tarea>>(responseBody);
 // resultados en consola, filtra la lista para mostrar primero todas las tareas
 // pendientes y luego las completadas.
 
+Console.WriteLine("Tareas Completadas:");
 foreach (var Tar in listTareas)
 {
-    if (Tar.completed) {
-        Console.WriteLine("Tareas Completadas:");
-        Console.WriteLine("ID Usuario: " + Tar.userId + " ID Tarea: " + Tar.id + " Tarea: " + Tar.title);    
+    if (Tar.completed)
+    {
+        Console.WriteLine("ID Usuario: " + Tar.userId + " ID Tarea: " + Tar.id + " Tarea: " + Tar.title);
     }
 }
 
+Console.WriteLine("Tareas No Completadas:");
 foreach (var Tar in listTareas)
 {
-    if (!Tar.completed) {
-        Console.WriteLine("Tareas No Completadas:");
-        Console.WriteLine("ID Usuario: " + Tar.userId + " ID Tarea: " + Tar.id + " Tarea: " + Tar.title);    
+    if (!Tar.completed)
+    {
+        Console.WriteLine("ID Usuario: " + Tar.userId + " ID Tarea: " + Tar.id + " Tarea: " + Tar.title);
     }
 }
 
@@ -41,5 +43,8 @@ foreach (var Tar in listTareas)
 // A la lista completa de tareas y serialízala nuevamente a formato JSON y guarda el
 // resultado en un archivo llamado tareas.json en el directorio de ejecución de la
 // aplicación.
-// string jsonString = JsonSerializer.Serialize(Tar);
+string jsonString = JsonSerializer.Serialize(listTareas);
+Console.WriteLine(jsonString);
+
+File.WriteAllText("reporte_archivos.json", jsonString);
 

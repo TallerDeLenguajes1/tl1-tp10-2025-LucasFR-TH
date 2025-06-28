@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "z/5ZpVHCiYHnH0lSLCj+HGDlknbTVhs0tjFhF7dZWj+A/GGxhFe/9FMKW//prhSd5QRlrY0gfsvpQQvZ1o+O0w==",
+  "dgSpecHash": "8OtuwJ+VZEw=",
   "success": true,
-  "projectFilePath": "E:\\PROGRAMACION\\TALLER LENGUAJE\\tp10\\tl1-tp10-2025-LucasFR-TH\\Tareas\\Tareas.csproj",
+  "projectFilePath": "F:\\PROGRAMACION\\TALLER LENGUAJE\\tp10\\tl1-tp10-2025-LucasFR-TH\\Tareas\\Tareas.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Alumno\\.nuget\\packages\\system.io.pipelines\\9.0.6\\system.io.pipelines.9.0.6.nupkg.sha512",
-    "C:\\Users\\Alumno\\.nuget\\packages\\system.text.encodings.web\\9.0.6\\system.text.encodings.web.9.0.6.nupkg.sha512",
-    "C:\\Users\\Alumno\\.nuget\\packages\\system.text.json\\9.0.6\\system.text.json.9.0.6.nupkg.sha512"
+    "C:\\Users\\lucas\\.nuget\\packages\\system.io.pipelines\\9.0.6\\system.io.pipelines.9.0.6.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\system.text.encodings.web\\9.0.6\\system.text.encodings.web.9.0.6.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\system.text.json\\9.0.6\\system.text.json.9.0.6.nupkg.sha512"
   ],
   "logs": []
 }
