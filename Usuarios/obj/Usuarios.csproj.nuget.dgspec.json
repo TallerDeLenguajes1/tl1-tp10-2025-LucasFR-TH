@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PROGRAMACION\\TALLER LENGUAJE\\tp10\\tl1-tp10-2025-LucasFR-TH\\Usuarios\\Usuarios.csproj": {}
+    "D:\\PROGRAMACION\\TALLER LENGUAJE\\tp10\\tl1-tp10-2025-LucasFR-TH\\Usuarios\\Usuarios.csproj": {}
   },
   "projects": {
-    "E:\\PROGRAMACION\\TALLER LENGUAJE\\tp10\\tl1-tp10-2025-LucasFR-TH\\Usuarios\\Usuarios.csproj": {
+    "D:\\PROGRAMACION\\TALLER LENGUAJE\\tp10\\tl1-tp10-2025-LucasFR-TH\\Usuarios\\Usuarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PROGRAMACION\\TALLER LENGUAJE\\tp10\\tl1-tp10-2025-LucasFR-TH\\Usuarios\\Usuarios.csproj",
+        "projectUniqueName": "D:\\PROGRAMACION\\TALLER LENGUAJE\\tp10\\tl1-tp10-2025-LucasFR-TH\\Usuarios\\Usuarios.csproj",
         "projectName": "Usuarios",
-        "projectPath": "E:\\PROGRAMACION\\TALLER LENGUAJE\\tp10\\tl1-tp10-2025-LucasFR-TH\\Usuarios\\Usuarios.csproj",
-        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "E:\\PROGRAMACION\\TALLER LENGUAJE\\tp10\\tl1-tp10-2025-LucasFR-TH\\Usuarios\\obj\\",
+        "projectPath": "D:\\PROGRAMACION\\TALLER LENGUAJE\\tp10\\tl1-tp10-2025-LucasFR-TH\\Usuarios\\Usuarios.csproj",
+        "packagesPath": "C:\\Users\\Pilar\\.nuget\\packages\\",
+        "outputPath": "D:\\PROGRAMACION\\TALLER LENGUAJE\\tp10\\tl1-tp10-2025-LucasFR-TH\\Usuarios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Pilar\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.411/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
